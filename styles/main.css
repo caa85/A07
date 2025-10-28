@@ -101,7 +101,7 @@ blockquote {
   padding-left: 1em;
 }
 
-h2.speakers-heading {
+h1.speakers-heading {
   border: 4px double #931420;
   border-radius: 12px;
   box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);
